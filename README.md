@@ -1,6 +1,6 @@
 # 🚗 Car Rental Website UI Design  
 
-![Car Rental Website UI Design](Desktop%20-%2018.png)
+![Car Rental Website UI Design](WebsiteCover.png)
 
 ## 🖥️ Project Overview  
 A **modern and luxurious Car Rental Website UI** designed to provide users with a seamless and engaging experience when exploring and booking premium cars.  
