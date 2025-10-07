@@ -1,6 +1,6 @@
 # 🚗 Car Rental Website UI Design  
 
-![Car Rental Website UI Design](WebsiteCover.png)
+![Car Rental Website UI Design](Desktop.png)
 
 ## 🖥️ Project Overview  
 A **modern and luxurious Car Rental Website UI** designed to provide users with a seamless and engaging experience when exploring and booking premium cars.  
@@ -46,7 +46,7 @@ To create a **visually powerful and intuitive user interface** that gives users 
 
 ## 📁 Project Info  
 **Project Type:** UI/UX Design  
-**Designer:** Dharaneeshwar  
+**Designer:** Dharaneeshwar 
 **Category:** Web UI – Car Rental Platform  
 
 ---
